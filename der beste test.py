@@ -6,7 +6,7 @@ import os
 import base64
 
 # ── Seiteneinstellungen ────────────────────────────────────────────────────────
-st.set_page_config(page_title="Fundbüro", page_icon="🎒", layout="centered")
+st.set_page_config(page_title="Funny test", page_icon=":)", layout="centered")
 
 # ── Logo laden (logo.png im selben Ordner) ────────────────────────────────────
 def logo_laden():
